@@ -33,9 +33,11 @@ a:hover {
 /* selected link */
 a:active {
     color: orange;
+	font-style: italic;
 }
 .contact {
-	padding: 60px;
+	padding: 0px 60px 0px 60px;
+	
 }
 .container {
 	text-align: left;
