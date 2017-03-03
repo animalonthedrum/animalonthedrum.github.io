@@ -1,5 +1,5 @@
 body {
-	font-family: Georgia, serif;
+	font-family: Helvetica, arial, sans-serif;
 	height: 100%;
 	margin: 0;
 	text-align: center;
@@ -7,10 +7,10 @@ body {
 }
 
 h1 {
-	font-size: 32px;
+	font-size: 56px;
 }
 
 h2 {
 	color: #ffffff;
-	font-size: 56px; 
+	font-size: 32px; 
 }
