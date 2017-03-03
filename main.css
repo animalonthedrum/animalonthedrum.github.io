@@ -2,7 +2,6 @@ body {
 	font-family: Helvetica, arial, sans-serif;
 	height: 100%;
 	margin: 30px;
-	padding: 60px;
 	text-align: center;
 	width: 100%;
 }
@@ -18,4 +17,5 @@ h2 {
 }
 .container {
 	text-align: left;
+	padding: 60px;
 }
