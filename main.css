@@ -16,6 +16,10 @@ h2 {
 	font-size: 22px;
 	text-transform: uppercase;
 }
+hr
+{
+padding:0px 60px 0px 60px
+}
 /* unvisited link */
 a:link {
     color: blue;
