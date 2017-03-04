@@ -50,8 +50,8 @@ a:active {
 	font-style: italic;
 }
 .bio {
-	float: center;
-	font-size: 18px;
+	float: right;
+	font-size: 12px;
 }
 .contact {
 	padding: 0px 60px 0px 60px;
