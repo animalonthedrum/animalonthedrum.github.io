@@ -21,7 +21,8 @@ h2 {
 }
 hr
 {
-padding:0px 200px 0px 200px
+	color: #ff8200;
+	padding:0px 200px 0px 200px
 }
 /* unvisited link */
 a:link {
