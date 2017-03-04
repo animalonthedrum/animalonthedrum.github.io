@@ -52,5 +52,6 @@ a:active {
 }
 .pic {
 	float: right;
+	padding: 0px 400px 0px 60px;
 }
 
