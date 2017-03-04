@@ -10,7 +10,6 @@ body {
 }
 
 h1 {
-	font-family: Bebas Neue;
 	font-size: 56px;
 }
 
@@ -43,15 +42,15 @@ a:active {
     color: orange;
 	font-style: italic;
 }
-contact {
+.contact {
 	padding: 0px 60px 0px 60px;
 	
 }
-container {
+.container {
 	text-align: left;
 	padding: 60px;
 }
-pic {
+.pic {
 	float: right;
 	
 }
