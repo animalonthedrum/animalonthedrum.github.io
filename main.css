@@ -49,6 +49,10 @@ a:active {
     color: orange;
 	font-style: italic;
 }
+.bio {
+	float: center;
+	font-size: 18px;
+}
 .contact {
 	padding: 0px 60px 0px 60px;
 	
