@@ -1,7 +1,7 @@
 body {
 	font-family: Verdana, arial, sans-serif;
 	height: 100%;
-	margin: 60px;
+	margin: 100px;
 	text-align: center;
 	width: 100%;
 	background-color: #ffffff;
@@ -58,6 +58,7 @@ a:active {
 	padding: 30px;
 }
 pic {
+	padding: 0px 0px 100px 100px;
 	float: right;
 	
 }
