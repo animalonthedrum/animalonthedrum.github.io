@@ -50,4 +50,7 @@ a:active {
 	text-align: left;
 	padding: 60px;
 }
+.pic {
+	float: right;
+}
 
