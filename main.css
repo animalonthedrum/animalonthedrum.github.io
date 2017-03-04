@@ -21,7 +21,7 @@ h2 {
 }
 hr
 {
-	color: #ff8200;
+	border-color: #ff8200;
 	padding:0px 200px 0px 200px
 }
 /* unvisited link */
@@ -53,8 +53,7 @@ a:active {
 	padding: 30px;
 }
 pic {
-	padding: 20px; 
-	float: right;
+	 float: right;
 	
 }
 
