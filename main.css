@@ -47,7 +47,7 @@ a:active {
 }
 .container {
 	text-align: left;
-	padding: 30px;
+	padding: 60px 30px 60px 30px;
 	width: 800px;
 }
 .header {
