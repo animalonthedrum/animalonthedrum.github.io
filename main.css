@@ -8,10 +8,6 @@ body {
 	background-image: url("https://www.transparenttextures.com/patterns/back-pattern.png");
 	
 }
-header {
-	padding: 30px;
-}
-
 h1 {
 	font-family: Arial narrow, arial, sans-serif;
 	font-size: 56px;
@@ -30,19 +26,19 @@ hr
     border-top: 1px solid #ff8200;
     margin: 1em 0;
     border-color: #ff8200;
-	padding:0px 200px 0px 200px
+	
 }
 a:link {
-    color: blue;
+    color: #ff8200;
 }
 a:visited {
-    color: orange;
+    color: gray;
 }
 a:hover {
-    color: orange;
+    color: #ff8200;
 }
 a:active {
-    color: orange;
+    color: #ff8200;
 	font-style: italic;
 }
 .contact {
@@ -53,6 +49,9 @@ a:active {
 	text-align: left;
 	padding: 30px;
 	width: 800px;
+}
+.header {
+	padding: 30px;
 }
 pic {
 	float: right;
