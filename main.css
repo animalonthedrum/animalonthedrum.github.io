@@ -29,29 +29,18 @@ hr
     border-color: #ff8200;
 	padding:0px 200px 0px 200px
 }
-/* unvisited link */
 a:link {
     color: blue;
 }
-
-/* visited link */
 a:visited {
     color: orange;
 }
-
-/* mouse over link */
 a:hover {
     color: orange;
 }
-
-/* selected link */
 a:active {
     color: orange;
 	font-style: italic;
-}
-.bio {
-	float: right;
-	font-size: 12px;
 }
 .contact {
 	padding: 0px 60px 0px 60px;
